@@ -1,8 +1,7 @@
-<h1 align="center"><a href="https://github.com/arun04arun95">Arun Kumar Periyasamy</a></h1>
-<h4 align="center">Quality Analyst @ <a href="https://www.thoughtworks.com/>Thoughtworks</a></h4>
+<h1 align="center"><a href="https://github.com/arun04arun95">Arun Kumar Periyasamy</a>😁</h1>
+<h4 align="center">Quality Analyst @ <a href="https://www.thoughtworks.com">Thoughtworks</a></h4>
 
 </br>
-
 <a href="https://twitter.com/hunterarun04">
   <img align="left" alt="Arun Kumar's Twitter" width=22px src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
